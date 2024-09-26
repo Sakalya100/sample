@@ -1,0 +1,4 @@
+﻿natural_query,sql_query
+show all orders,SELECT * FROM Orders;
+Which products has proce less than 250?,SELECT ProductName FROM Products WHERE Price < 250;
+"""Get the highest payment amount made by any customer.""",SELECT MAX(amount) FROM payments;
