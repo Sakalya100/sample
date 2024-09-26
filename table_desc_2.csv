@@ -1,0 +1,3 @@
+﻿table,description
+Orders,Table containing information about orders made by customers.
+OrderDetails,Table containing detailed information about individual items within orders.
